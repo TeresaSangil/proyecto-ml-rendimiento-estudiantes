@@ -1,0 +1,15 @@
+# Artefactos pesados derivados (se regeneran con notebooks/2_preprocesado.ipynb)
+datos_procesados/*.npy
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
